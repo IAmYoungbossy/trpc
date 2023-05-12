@@ -190,7 +190,8 @@ article {
 
 .theme-doc-markdown.markdown table {
   display: table;
-  /* width: 100%; */
+  width: 100%;
+  table-layout: fixed;
 }
 
 .theme-edit-this-page {
